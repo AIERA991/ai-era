@@ -1,0 +1,7 @@
+{
+  "schema": "ai-era.task.v1",
+  "title": "AI Era product introduction",
+  "prompt": "Write a concise English introduction for AI Era, a prototype network for AI task settlement using AERA. Explain that the total supply is 21 million, developers receive 5% locked for one year then released over four years, and the project has not launched on a public network. Do not make price predictions or security guarantees.",
+  "acceptance": "Client verifies factual accuracy and approves the English introduction.",
+  "budgetAERA": "25"
+}
